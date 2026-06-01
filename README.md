@@ -1,2 +1,3 @@
-# final6833-api
-ScrumDev AI backend (final6833-api)
+# Final6833 Backend
+
+Este proyecto es el backend del sistema de inventario para una tienda de ropa. Utiliza FastAPI para crear una API RESTful.
